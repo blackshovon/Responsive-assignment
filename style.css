@@ -1,8 +1,6 @@
-.sect2 img{
-    width: 10%;
-}
-.sect2{
-    display: flex;
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
 }
 .bag-card{
     border: none;
@@ -14,4 +12,11 @@
 }
 .bag-card-footer{
     border: none;
+}
+.btn-color{
+    background-color: #2A1E59;
+    color: white;
+}
+.price-color{
+    color:#76C27E ;
 }
